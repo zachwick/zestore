@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/zwick/Repos/Swift/zestore/.build/checkouts/crypto.git--6634517527350664676/Sources/CCryptoOpenSSL/include"
+    export *
+}

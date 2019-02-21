@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/zwick/Repos/Swift/zestore/.build/checkouts/swift-nio-ssl.git-8169975975690204809/Sources/CNIOOpenSSL/include"
+    export *
+}
