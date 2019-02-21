@@ -1,0 +1,9 @@
+#set("title") {Contact}
+#set("h1") {Get in touch}
+
+#set("body") {
+<p>Call us at +1 419 280 8089</p>
+}
+
+#embed("master")
+
