@@ -1,0 +1,9 @@
+#set("body") {
+<p>zestore is the easiest way to get started with a whitelabeled e-commerce store!</p>
+}
+
+#set("h1") {Welcome to zestore}
+#set("title") {Welcome}
+
+#embed("master")
+
