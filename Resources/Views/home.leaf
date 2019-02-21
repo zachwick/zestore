@@ -1,8 +1,8 @@
 #set("body") {
-<p>zestore is the easiest way to get started with a whitelabeled e-commerce store!</p>
+<p>rfq.ai - the smartest way to source online</p>
 }
 
-#set("h1") {Welcome to zestore}
+#set("h1") {Welcome to rfq.ai}
 #set("title") {Welcome}
 
 #embed("master")
